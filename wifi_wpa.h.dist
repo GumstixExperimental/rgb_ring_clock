@@ -1,0 +1,2 @@
+#define WPA_SSID "YOUR-SSID"
+#define WPA_PSK "YOUR-PSK"
